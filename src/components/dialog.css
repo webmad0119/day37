@@ -1,0 +1,13 @@
+div.dialog {
+    background: #fabada;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    max-width: 50%;
+}
+
+div.dialog h2 {
+    margin: 0;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+}
